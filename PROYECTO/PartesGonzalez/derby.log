@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Wed Dec 07 12:02:12 CST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0158-da73-3024-000002ee7af0 
+on database directory H:\PARTESGONZALEZ_TOPICOS\PROYECTO\PartesGonzalez\DB\PartesGonzalez  with class loader sun.misc.Launcher$AppClassLoader@271a2576 
+Loaded from file:/H:/PARTESGONZALEZ_TOPICOS/PROYECTO/PartesGonzalez/src/Librerias/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_25-b16
+user.dir=H:\PARTESGONZALEZ_TOPICOS\PROYECTO\PartesGonzalez
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
